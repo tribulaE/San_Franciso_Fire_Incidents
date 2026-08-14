@@ -6,7 +6,7 @@ This project predicts how much property damage a fire causes, using open data fr
 
 The build estimates the dollar loss of a fire based on a few facts about the incident: what kind of property it was, what type of situation it was, and where in the building the fire started
 
-Also made a chart answer a question: **Which types of properrty tend to have the most expensive fires?**
+Also made a chart answer a question: **Which types of property tend to have the most expensive fires?**
 
 ## The data
 - **Source:** [San Franciso Open Data Portal - Fire Incidents](https://data.sfgov.org/Public-Safety/Fire-Incidents/wr8u-xric/about_data)
